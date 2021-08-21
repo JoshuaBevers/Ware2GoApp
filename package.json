@@ -1,0 +1,11 @@
+{
+  "name": "ware2goapp",
+  "version": "1.0.0",
+  "description": "Application for Ware2Go",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "example_user <example-user@example.com>",
+  "license": "MIT"
+}
