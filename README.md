@@ -34,7 +34,7 @@ From the root file enter:
 
 After installing dependencies, if you want to run tests, all you have to do is use the command prompt from the root:
 
-`npm run tests`
+`npm run test`
 
 ## Dependencies
 
