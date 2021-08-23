@@ -27,7 +27,7 @@ console.log(
 
 const run = async () => {
   const ChrisPrattList = await getMovieActorList('Chris Pratt');
-  console.log(chalk.green('Chris Pratts list is: \n'));
+  console.log(chalk.green("Chris Pratt's list is: \n"));
   console.log(chalk.cyanBright(ChrisPrattList));
   const MovieNumWinner = await compareActors('Chris Pratt', 'Johnny Depp');
   console.log(chalk.red(MovieNumWinner, 'has the most movies!'));
